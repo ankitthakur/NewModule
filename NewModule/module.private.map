@@ -1,0 +1,7 @@
+explicit module NewModule.SubModule1.Private [system] {
+	header "SubModule1/SubModule1.h"
+}
+
+explicit module NewModule.SubModule2.Private [system] {
+	header "SubModule2/SubModule2.h"
+}

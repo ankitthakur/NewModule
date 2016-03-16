@@ -1,0 +1,3 @@
+module SubModule2 [system] {
+	header "./SubModule2.h"
+}

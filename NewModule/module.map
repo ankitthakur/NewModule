@@ -1,0 +1,4 @@
+module NewModule {
+	header "NewModule.h"
+		export *
+}
